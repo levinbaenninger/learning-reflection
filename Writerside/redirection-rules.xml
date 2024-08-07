@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="348ef292">
+        <description>Created after removal of "About Lernreflexion" from Lernreflexion</description>
+        <accepts>starter-topic.html</accepts>
+    </rule>
+    <rule id="734d83f5">
+        <description>Created after removal of "KW32" from Lernreflexion</description>
+        <accepts>KW32.html</accepts>
+    </rule>
+</rules>

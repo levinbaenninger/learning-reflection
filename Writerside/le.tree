@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="le"
+                 name="Lernreflexion"
+>
+    <toc-element toc-title="2. Lehrjahr">
+
+        <toc-element topic="ITP81.md">
+            <toc-element toc-title="KW32">
+                <toc-element topic="05-08-2024.md"/>
+                <toc-element topic="06-08-2024.md"/>
+                <toc-element topic="07-08-2024.md"/>
+            </toc-element>
+            <toc-element toc-title="KW33"></toc-element>
+            <toc-element toc-title="KW34"></toc-element>
+            <toc-element toc-title="KW35"></toc-element>
+        </toc-element>
+        <toc-element topic="LA11.md"/>
+        <toc-element topic="ITP92.md"/>
+        <toc-element topic="LA4-IoT.md"/>
+    </toc-element>
+    <toc-element toc-title="3. Lehrjahr"></toc-element>
+    <toc-element toc-title="4. Lehrjahr"></toc-element>
+
+</instance-profile>
