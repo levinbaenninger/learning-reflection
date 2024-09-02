@@ -25,7 +25,11 @@
                 <toc-element topic="20-08-2024.md"/>
                 <toc-element topic="23-08-2024.md"/>
             </toc-element>
-            <toc-element toc-title="KW35"/>
+            <toc-element toc-title="KW35">
+                <toc-element topic="26-08-024.md"/>
+                <toc-element topic="27-08-2024.md"/>
+                <toc-element topic="30-08-2024.md"/>
+            </toc-element>
         </toc-element>
         <toc-element topic="LA11.md"/>
         <toc-element topic="ITP92.md"/>
